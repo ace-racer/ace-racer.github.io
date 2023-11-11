@@ -2,8 +2,8 @@
 
 ### Some useful details about myself
 
-- Most up to date professional profile: [LinkedIn](https://sg.linkedin.com/in/anurag-chatterjee)
-- My thoughts on technical matters: [Medium](https://anuragchatterjee92.medium.com/)
+- Most up to date professional profile: [LinkedIn](https://www.linkedin.com/in/anurag-chatterjee)
+- My opinions on technical matters: [Medium](https://anuragchatterjee92.medium.com/)
 
 
 ### Some of my contributions to the software community during my own time
